@@ -1,6 +1,6 @@
 {
   "name": "react-fixed-resolution",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A package for React web applications that provides a fixed resolution layout.",
   "main": "index.jsx",
   "scripts": {
