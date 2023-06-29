@@ -1,0 +1,22 @@
+{
+  "name": "react-fixed-resolution",
+  "version": "0.0.1",
+  "description": "A package for React web applications that provides a fixed resolution layout.",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeoJiye/react-fixed-resolution.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "HeoJiye <heoze1031@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeoJiye/react-fixed-resolution/issues"
+  },
+  "homepage": "https://github.com/HeoJiye/react-fixed-resolution#readme"
+}
