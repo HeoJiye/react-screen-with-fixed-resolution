@@ -1,6 +1,6 @@
 {
   "name": "react-fixed-resolution",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A package for React web applications that provides a fixed resolution layout.",
   "main": "index.jsx",
   "scripts": {
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/HeoJiye/react-fixed-resolution/issues"
   },
-  "homepage": "https://github.com/HeoJiye/react-fixed-resolution#readme"
+  "homepage": "https://github.com/HeoJiye/react-fixed-resolution#readme",
+  "dependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/preset-react": "^7.22.5"
+  }
 }
